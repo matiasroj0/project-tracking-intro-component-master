@@ -4,7 +4,7 @@ This is a solution to the [Project tracking intro component challenge on Fronten
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://boisterous-pithivier-379651.netlify.app/
 
 ### Screenshot
 
